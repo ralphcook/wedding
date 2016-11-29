@@ -1,0 +1,10 @@
+key:khall
+first:Kevin
+last:Hall
+description:Kevin is a consultant to the nuclear power industry; he lives in Oak Ridge, TN
+relationship:cousin:bhall
+relationship:cousin:shall
+relationship:cousin:thall
+relationship:cousin:dpeaton
+relationship:cousin:khall
+relationship:cousin:thall

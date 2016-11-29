@@ -1,0 +1,9 @@
+first:Martha Helen
+last:Eubank
+description:This is the bride's great aunt. She lives in Durham.
+relationship:sister:pcooper
+relationship:daughter:ffuller
+relationship:daughter:hcrane
+relationship:granddaughter:kfuller
+relationship:grandson:rfuller
+relationship:grandson:scrane

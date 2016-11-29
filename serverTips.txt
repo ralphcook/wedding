@@ -1,0 +1,2 @@
+location of war on server: /var/lib/tomcat/webapps
+

@@ -1,0 +1,6 @@
+key:dcook
+first:Dan
+last:Cook
+description:Uncle to the bride. He is retired from customer service work in Trinity, NC
+relationship:niece:jcook
+relationship:brother:rcook

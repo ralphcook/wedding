@@ -1,0 +1,9 @@
+first:Preston
+last:Hall
+description:The bride's maternal grandfather. He's retired from the Army and the banking industry, and lives in St. Pete Beach, FL
+relationship:granddaughter:jcook
+relationship:friend:mmatchell
+relationship:daughter:bhall
+relationship:son:shall
+relationship:grandson:sjhall
+relationship:grandson:jhall

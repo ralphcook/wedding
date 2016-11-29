@@ -1,0 +1,7 @@
+key:tmiller
+first:Tom
+last:Miller
+description:Tom has retired from his position as General Counsel to the NC Board of Realtors. He and the bride's mother have been friends since childhood.
+relationship:wife:kmiller
+relationship:friend:bhall
+relationship:friend:shall

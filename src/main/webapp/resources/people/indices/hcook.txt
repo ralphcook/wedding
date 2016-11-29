@@ -1,0 +1,5 @@
+key:hcook
+first:Hannah
+last:Cook
+description:Graduated from Chicago law with Jennifer and WuDi; currently clerking for a Federal judge. She's no relation to Jennifer that we know of.
+relationship:friend:jcook

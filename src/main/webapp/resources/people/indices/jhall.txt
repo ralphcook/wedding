@@ -1,0 +1,10 @@
+first:Justin
+last:Hall
+description:First cousin to the bride. He is attending the University of NC at Charlotte.
+relationship:father:shall
+relationship:brother:sjhall
+relationship:grandfather:phall
+relationship:grandmother:pcooper
+relationship:aunt:bhall
+relationship:uncle:rcook
+

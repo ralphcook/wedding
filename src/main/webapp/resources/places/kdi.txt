@@ -1,0 +1,4 @@
+name:King's Daughters Inn
+text:The King's Daughters Inn was originally a home for older unmarried women, provided with charitable subsidies from the Duke family. This building was built by them for this purpose, and opened in 1926.
+website:https://thekingsdaughtersinn.com/
+map:https://www.google.com/maps/place/The+King's+Daughters+Inn/@36.003767,-78.9143317,17z/data=!3m1!4b1!4m5!3m4!1s0x89ace4095c6fcc3b:0x7be761f6ceaac03d!8m2!3d36.003767!4d-78.912143

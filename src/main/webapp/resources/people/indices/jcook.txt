@@ -1,0 +1,14 @@
+first:Jennifer
+last:Cook
+description:This is the <B>bride</B>; she recently graduated from Chicago Law School and now works in Chicago as a lawyer.
+relationship:fiance:wwu
+relationship:mother:bhall
+relationship:father:rcook
+relationship:grandmother:pcooper
+relationship:grandfather:phall
+relationship:uncle:shall
+relationship:uncle:dcook
+relationship:aunt:baylor
+relationship:cousin:sjhall
+relationship:cousin:jhall
+relationship:cousin:acallahan

@@ -1,0 +1,122 @@
+.wedding .v-label
+{
+	margin: 		0px 10px 10px 10px	!important;
+	padding:		10px 10px 10px 10px	!important;
+	font-family:	Verdana				!important;
+	font-size:		12pt				!important;
+	background:		moccasin			!important;
+}
+
+.browseView .v-touchkit-horizontallayout .v-spacing {
+    width: 20px;
+}
+
+.welcomeView
+{
+	padding: 0 15px 5px 5px			!important;
+}
+
+.wedding .v-table-cell-content
+{
+	padding: 1px 1px 1px 3px		!important;
+}
+
+.wedding .v-table-cell-wrapper
+{
+	padding: 2px 0;
+}
+
+.v-touchkit-navbar-caption
+{
+	color:		moccasin	!important;
+	background:	green		!important;
+	border-style: single	!important;
+	border-width: 3px		!important;
+	border-radius: 15px		!important;
+}
+
+.v-upload
+{
+	display: inline-block 	!important;
+	line-height: 2			!important;
+}
+.v-button
+{ 
+	display: inline-block	!important;
+	background: moccasin !important;
+	color: green			!important;
+	text-align: center !important;
+	border-style: double !important;
+	border-width: 5px !important;
+	border-radius: 15px !important;
+	line-height:	2	!important;
+}
+.v-touchkit-navbutton 		{ color: moccasin !important;}
+.v-touchkit-navbutton:after { color: moccasin !important;}
+
+.v-touchkit-navbutton-back		{ color: moccasin !important; font-size: 10pt}
+.v-touchkit-navbutton-back:after{ color: moccasin !important;}
+
+.wedding .v-table-row-odd
+{
+	background-color: white !important;
+}
+
+.wedding .v-touchkit-navview-wrapper .v-touchkit-navbutton
+{
+	color: 		green		!important;	
+	background: moccasin	!important;
+	text-align: center		!important;
+	border-style: double	!important;
+	border-width: 5px		!important;
+	border-radius: 15px		!important;
+}
+
+.wedding .v-touchkit-navview-wrapper .v-touchkit-navbutton:after
+{
+	color:		darkgreen	!important;
+}
+
+.menuView .v-touchkit-componentgroup-cell
+{
+	margin: 3px 0 !important;
+}
+
+.menuView .v-image
+{
+	width:			2.5in			!important;
+	display:		block			!important;
+	margin-left:	auto			!important;
+	margin-right:	auto			!important;
+	border:			1px solid		!important;
+}
+
+.peopleView .v-touchkit-navbutton
+{
+	line-height: 2.5		!important;
+	color:		moccasin	!important;
+}
+
+.personView .v-image
+{
+	width:			2.5in			!important;
+	display:		block			!important;
+	margin-left:	auto			!important;
+	margin-right:	auto			!important;
+	border:			1px solid		!important;
+}
+
+.personView .relationshipLabel
+{
+	font-size:			11px			!important;
+	font-style:			italic			!important;
+	text-align:			right			!important;
+	padding: 			15px 0 0 0 		!important;
+	margin: 			0 0 0 0 		!important;
+	background:			white			!important;
+}
+.personView .v-captiontext
+{
+	display:			block			!important;
+	text-align:			center			!important;
+}

@@ -1,0 +1,4 @@
+Name:RDU Airport
+Text:The Raleigh-Durham Airport is situated between the two cities, about 20 minutes from either the King's Daughters Inn or Elements Restaurant 
+website:https://www.rdu.com
+map:https://www.google.com/maps/place/Raleigh-Durham+International+Airport/@35.880079,-78.790185,17z/data=!3m1!4b1!4m5!3m4!1s0x89acf0fa028e79cf:0xe38392d241f375ed!8m2!3d35.880079!4d-78.7879963 

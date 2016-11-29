@@ -1,0 +1,8 @@
+key:kfuller
+first:Ky
+last:Fuller
+description:Ky attends high school in Atlanta, GA
+relationship:mother:ffuller
+relationship:father:dfuller
+relationship:brother:rfuller
+relationship:cousin:scrane

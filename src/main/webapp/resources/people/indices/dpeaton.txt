@@ -1,0 +1,8 @@
+key:dpeaton
+first:Debbie
+last:Peaton
+description:Debbie is retired from (most of her) property management activities, and lives in Millwood, GA
+relationship:cousin:bhall
+relationship:cousin:khall
+relationship:cousin:shall
+

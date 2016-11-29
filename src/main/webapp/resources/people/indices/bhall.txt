@@ -1,0 +1,13 @@
+first:Bly
+last:Hall
+description:This is the mother of the bride; she lives in Durham, and works as a lawyer for the State of North Carolina.
+relationship:daughter:jcook
+relationship:husband:rcook
+relationship:mother:pcooper
+relationship:father:phall
+relationship:aunt:meubank
+relationship:cousin:ffuller
+relationship:cousin:hcrane
+relationship:cousin:thall
+relationship:cousin:dpeaton
+relationship:cousin:khall

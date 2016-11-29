@@ -1,0 +1,6 @@
+first:WuDi
+last:Wu
+description:This is the <b>groom</b>; he recently graduated from Chicago Law School, and works in Chicago as a business consultant with Boston Consulting Group.
+relationship:fiancee:jcook
+relationship:father:rwu
+relationship:mother:ybi

@@ -1,0 +1,5 @@
+first:Yonghong
+last:Bi
+description:This is the groom's mother; she teaches college-level Chemical Engineering in Saskatchewan. 
+relationship:son:wwu
+relationship:spouse:rwu

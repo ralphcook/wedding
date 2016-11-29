@@ -1,0 +1,6 @@
+key:cwolf
+first:Chuck
+last:Wolf
+description:Lawyer with the bride's firm in Chicago, focusing on labor, employment, and employee benefits.
+relationship:coworker:jcook
+relationship:wife:swolf

@@ -1,0 +1,11 @@
+first:Steven
+last:Hall
+description:First cousin to the bride. He works for a security firm in Jacksonville, FL
+relationship:wife:tcrumpler-hall
+relationship:father:shall
+relationship:brother:jhall
+relationship:grandfather:phall
+relationship:grandmother:pcooper
+relationship:aunt:bhall
+relationship:uncle:rcook
+

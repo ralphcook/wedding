@@ -1,0 +1,6 @@
+first:Spencer
+last:Crane
+description:Spencer attends middle school in Richmond, VA
+relationship:mother:hcrane
+relationship:father:dcrane
+relationship:grandmother:meubank

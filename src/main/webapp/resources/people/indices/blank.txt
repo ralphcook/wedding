@@ -1,0 +1,6 @@
+key:
+first:
+last:
+//description:Lawyer with the bride's firm in Chicago, focusing on labor, employment, and employee benefits.
+relationship:friend:jcook
+relationship:friend:wwu

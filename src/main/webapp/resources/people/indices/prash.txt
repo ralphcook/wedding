@@ -1,0 +1,5 @@
+key:prash
+first:Philip
+last:Rash
+description:Mathematics Instructor at the NC School of Science and Math, where Jennifer attended.
+relationship:friend:jcook

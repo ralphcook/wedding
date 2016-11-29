@@ -1,0 +1,6 @@
+key:baylor
+first:Becky
+last:Aylor
+description:Becky is the bride's aunt. She is a commercial artist near her home in Trinity, NC
+relationship:niece:jcook
+relationship:husband:dcook

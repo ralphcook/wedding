@@ -1,0 +1,4 @@
+name:Elements Restaurant
+text:The reception after the ceremony will take place at Elements.
+website:http://elementsofchapelhill.com/
+map:https://www.google.com/maps/place/1380+Environ+Way,+Chapel+Hill,+NC+27517/@35.9068354,-79.0240957,17z/data=!3m1!4b1!4m5!3m4!1s0x89acc29e5ee52cdd:0x28e56705346209f8!8m2!3d35.9068354!4d-79.021907

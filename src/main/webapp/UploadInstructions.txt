@@ -1,0 +1,11 @@
+Upload instructions:
+
+rename war file to wedding.war
+
+Using PSFTP:
+
+Password contains capitals. He might have known it.
+
+lcd /Users/ralph/files/programming/workspaces/vaadin/wedding/target
+cd /var/lib/tomcat/webapps
+put wedding.war

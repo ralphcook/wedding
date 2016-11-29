@@ -1,0 +1,9 @@
+key:ffuller
+first:Fran
+last:Fuller
+description:Fran is first cousin once removed to the bride. 
+relationship:husband:dfuller
+relationship:mother:meubank
+relationship:sister:hcrane
+relationship:cousin:bhall
+relationship:cousin:shall

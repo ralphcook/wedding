@@ -1,0 +1,9 @@
+restart tips (requested resource not found)
+
+1. stop server
+2. remove app
+3. do server 'clean'
+4. do server 'clean work directory'
+5. do maven ('clean' and?) 'install'
+6. add app back to server
+7. start server

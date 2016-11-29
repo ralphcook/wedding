@@ -1,0 +1,8 @@
+key:rfuller
+first:Reid
+last:Fuller
+description:Reid attends middle school in Atanta, GA
+relationship:mother:ffuller
+relationship:father:dfuller
+relationship:sister:kfuller
+relationship:cousin:scrane

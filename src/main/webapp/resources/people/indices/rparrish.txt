@@ -1,0 +1,6 @@
+key:rparrish
+first:Ruth
+last:Parrish
+description:Ms. Parrish occasionally looked after Jennifer when the latter was a child.
+relationship:daughter:lhall
+relationship:daughter:nbyrd

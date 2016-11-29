@@ -1,0 +1,5 @@
+// list of place files; each should have a .desc and a .txt in the same folder as this file.
+kdi
+duke
+elements
+rdu

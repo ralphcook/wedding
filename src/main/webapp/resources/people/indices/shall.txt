@@ -1,0 +1,10 @@
+first:Steve
+last:Hall
+description:This is the bride's uncle; he lives in Durham, where he is a service writer for a collision and body shop.
+relationship:niece:jcook
+relationship:mother:pcooper
+relationship:father:phall
+relationship:sister:bhall
+relationship:son:sjhall
+relationship:son:jhall
+relationship:aunt:meubank

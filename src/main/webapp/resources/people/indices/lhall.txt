@@ -1,0 +1,9 @@
+key:lhall
+first:Linda
+last:Hall
+relationship:husband:thall
+relationship:mother:rparrish
+relationship:cousin:bhall
+relationship:cousin:shall
+relationship:cousin:dpeaton
+relationship:cousin:khall

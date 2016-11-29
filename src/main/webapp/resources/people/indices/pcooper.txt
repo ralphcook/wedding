@@ -1,0 +1,9 @@
+first:Patricia
+last:Cooper
+description:This the bride's maternal grandmother. She is retired from the Veteran's Administration, and lives in Durham.
+relationship:granddaughter:jcook
+relationship:daughter:bhall
+relationship:son:shall
+relationship:sister:meubank
+relationship:grandson:sjhall
+relationship:grandson:jhall
